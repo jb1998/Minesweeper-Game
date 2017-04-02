@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="New Game"
+        android:id="@+id/newGame"
+       />
+
+    <item android:title="BoardSize easy"
+        android:id="@+id/boardSize_easy"
+        />
+    <item android:title="BoardSize medium"
+        android:id="@+id/boardSize_medium"
+        />
+
+    <item android:title="BoardSize difficult"
+        android:id="@+id/boardSize_hard"
+        />
+
+
+</menu>
